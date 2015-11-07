@@ -1,0 +1,12 @@
+
+**** Build of configuration Debug for project stm32_ld_vl ****
+
+cs-make all 
+Invoking: ARM Sourcery Windows GNU Print Size
+arm-none-eabi-size  --format=berkeley "stm32_ld_vl.elf"
+   text	   data	    bss	    dec	    hex	filename
+   1204	      4	    260	   1468	    5bc	stm32_ld_vl.elf
+Finished building: stm32_ld_vl.siz
+ 
+
+**** Build Finished ****
